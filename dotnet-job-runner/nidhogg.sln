@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NidhoggCommon", "NidhoggCommon\NidhoggCommon.csproj", "{98EEE190-DBED-46A1-9C4A-F0E191332009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9AF0743D-26DE-42DE-B09E-1A69B3C2062A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{6045732C-4F92-49C3-A0AF-969B1101CA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98EEE190-DBED-46A1-9C4A-F0E191332009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EEE190-DBED-46A1-9C4A-F0E191332009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EEE190-DBED-46A1-9C4A-F0E191332009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EEE190-DBED-46A1-9C4A-F0E191332009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF0743D-26DE-42DE-B09E-1A69B3C2062A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF0743D-26DE-42DE-B09E-1A69B3C2062A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF0743D-26DE-42DE-B09E-1A69B3C2062A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF0743D-26DE-42DE-B09E-1A69B3C2062A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6045732C-4F92-49C3-A0AF-969B1101CA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6045732C-4F92-49C3-A0AF-969B1101CA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6045732C-4F92-49C3-A0AF-969B1101CA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6045732C-4F92-49C3-A0AF-969B1101CA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
